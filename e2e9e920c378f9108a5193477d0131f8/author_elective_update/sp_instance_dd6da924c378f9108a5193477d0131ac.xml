@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance">
+    <sp_instance action="DELETE">
+        <active>true</active>
+        <class_name/>
+        <color>default</color>
+        <css/>
+        <glyph/>
+        <id/>
+        <order>1</order>
+        <roles/>
+        <short_description/>
+        <size>md</size>
+        <sp_column display_value="2">a32d6d24c378f9108a5193477d0131fa</sp_column>
+        <sp_widget display_value="Hello World 1">6f2cff80d721120023c84f80de61033c</sp_widget>
+        <sys_class_name>sp_instance</sys_class_name>
+        <sys_created_by>marie.bo.sande@soprasteria.com</sys_created_by>
+        <sys_created_on>2023-08-18 12:18:31</sys_created_on>
+        <sys_id>dd6da924c378f9108a5193477d0131ac</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Hello World" source="x_427197_hello_wor">e2e9e920c378f9108a5193477d0131f8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hello World">e2e9e920c378f9108a5193477d0131f8</sys_scope>
+        <sys_update_name>sp_instance_dd6da924c378f9108a5193477d0131ac</sys_update_name>
+        <sys_updated_by>marie.bo.sande@soprasteria.com</sys_updated_by>
+        <sys_updated_on>2023-08-18 12:18:31</sys_updated_on>
+        <title/>
+        <url/>
+        <widget_parameters/>
+    </sp_instance>
+    <sys_translated_text action="DELETE" query="documentkey=dd6da924c378f9108a5193477d0131ac"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Hello World">e2e9e920c378f9108a5193477d0131f8</application>
+        <file_path/>
+        <instance_id>e06cc2f41b310510c8432f8dee4bcb9f</instance_id>
+        <instance_name>dev125428</instance_name>
+        <name>sp_instance_dd6da924c378f9108a5193477d0131ac</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance"><sp_instance action="INSERT_OR_UPDATE"><active>true</active><class_name/><color>default</color><css/><glyph/><id/><order>1</order><roles/><short_description/><size>md</size><sp_column display_value="2">a32d6d24c378f9108a5193477d0131fa</sp_column><sp_widget display_value="Hello World 1">6f2cff80d721120023c84f80de61033c</sp_widget><sys_class_name>sp_instance</sys_class_name><sys_created_by>marie.bo.sande@soprasteria.com</sys_created_by><sys_created_on>2023-08-18 12:18:31</sys_created_on><sys_id>dd6da924c378f9108a5193477d0131ac</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_package display_value="Hello World" source="x_427197_hello_wor">e2e9e920c378f9108a5193477d0131f8</sys_package><sys_policy/><sys_scope display_value="Hello World">e2e9e920c378f9108a5193477d0131f8</sys_scope><sys_update_name>sp_instance_dd6da924c378f9108a5193477d0131ac</sys_update_name><sys_updated_by>marie.bo.sande@soprasteria.com</sys_updated_by><sys_updated_on>2023-08-18 12:18:31</sys_updated_on><title/><url/><widget_parameters/></sp_instance><sys_translated_text action="delete_multiple" query="documentkey=dd6da924c378f9108a5193477d0131ac"/></record_update>]]></payload>
+        <payload_hash>699541204</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>66e9e920c378f9108a5193477d0131fc</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>marie.bo.sande@soprasteria.com</sys_created_by>
+        <sys_created_on>2023-08-18 12:18:31</sys_created_on>
+        <sys_id>956da564c378f9108a5193477d0131ed</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18a089539a30000001</sys_recorded_at>
+        <sys_updated_by>marie.bo.sande@soprasteria.com</sys_updated_by>
+        <sys_updated_on>2023-08-18 12:18:31</sys_updated_on>
+        <type>Instance</type>
+        <update_guid>d56da9240a78f910a782f7f160c502ae</update_guid>
+        <update_guid_history>d56da9240a78f910a782f7f160c502ae:699541204</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="">dc7da5e0c378f9108a5193477d0131b4</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>marie.bo.sande@soprasteria.com</sys_created_by>
+        <sys_created_on>2023-08-18 12:18:44</sys_created_on>
+        <sys_db_object display_value="" name="sp_instance">sp_instance</sys_db_object>
+        <sys_id>d6a429fdebb040e0ace4e80fc2267809</sys_id>
+        <sys_metadata>dd6da924c378f9108a5193477d0131ac</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Hello World" source="x_427197_hello_wor">e2e9e920c378f9108a5193477d0131f8</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Hello World">e2e9e920c378f9108a5193477d0131f8</sys_scope>
+        <sys_scope_delete display_value="">476c63ca01314510a0b0f2dbd91f9710</sys_scope_delete>
+        <sys_update_name>sp_instance_dd6da924c378f9108a5193477d0131ac</sys_update_name>
+        <sys_update_version display_value="sp_instance_dd6da924c378f9108a5193477d0131ac">956da564c378f9108a5193477d0131ed</sys_update_version>
+        <sys_updated_by>marie.bo.sande@soprasteria.com</sys_updated_by>
+        <sys_updated_on>2023-08-18 12:18:44</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

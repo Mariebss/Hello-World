@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_container">
+    <sp_container action="INSERT_OR_UPDATE">
+        <background_color/>
+        <background_image/>
+        <background_style>default</background_style>
+        <bootstrap_alt>false</bootstrap_alt>
+        <class_name/>
+        <container_class_name/>
+        <name>Hello page - Container 1</name>
+        <order>1</order>
+        <semantic_tag/>
+        <sp_page display_value="hello_page">b71d6924c378f9108a5193477d01318f</sp_page>
+        <subheader>false</subheader>
+        <sys_class_name>sp_container</sys_class_name>
+        <sys_created_by>marie.bo.sande@soprasteria.com</sys_created_by>
+        <sys_created_on>2023-08-18 12:17:20</sys_created_on>
+        <sys_id>f71d6164c378f9108a5193477d0131a2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Hello page - Container 1</sys_name>
+        <sys_package display_value="Hello World" source="x_427197_hello_wor">e2e9e920c378f9108a5193477d0131f8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hello World">e2e9e920c378f9108a5193477d0131f8</sys_scope>
+        <sys_update_name>sp_container_f71d6164c378f9108a5193477d0131a2</sys_update_name>
+        <sys_updated_by>marie.bo.sande@soprasteria.com</sys_updated_by>
+        <sys_updated_on>2023-08-18 12:17:20</sys_updated_on>
+        <title/>
+        <width>container</width>
+    </sp_container>
+</record_update>
